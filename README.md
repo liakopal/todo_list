@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. Clone th project
+1. Clone this project
 2. cd into the project's folder
 3. Copy .env.sample to .env and provide your database credentials
 4. Run ```npm install```
